@@ -23,6 +23,7 @@ import rottingRecalcitrant from './ripleyc/rottingRecalcitrant/messages.json';
 import betrayedPhantom from './sashadeath/betrayedPhantom/messages.json';
 import uncredited from './shared/uncredited/messages.json';
 import nachthex from './stregaflora/nachthex/messages.json';
+import devilsReject from './ceph/devilsReject/messages.json';
 
 export default {
   ...anCailleach,
@@ -33,6 +34,7 @@ export default {
   ...catacombSaint,
   ...corpsePlunderer,
   ...deathWitch,
+  ...devilsReject,
   ...fugitiveKnight,
   ...misbegottenRelict,
   ...mutatedGoblin,

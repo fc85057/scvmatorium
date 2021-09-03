@@ -77,6 +77,13 @@ export const deathWitch: Attribution = {
   url: 'https://anadversary.itch.io/death-witch',
 };
 
+export const devilsReject: Attribution = {
+  title: { id: 'content.ceph.devilsReject' },
+  id: 'devilsReject',
+  authors: [ceph],
+  url: 'https://fc85057.itch.io/the-devils-reject',
+};
+
 export const fugitiveKnight: Attribution = {
   title: { id: 'content.neonon.fugitiveKnight' },
   id: 'fugitiveKnight',
@@ -218,6 +225,7 @@ export const classAttributions = [
   catacombSaint,
   corpsePlunderer,
   deathWitch,
+  devilsReject,
   fugitiveKnight,
   landlockedBuccaneer,
   misbegottenRelict,

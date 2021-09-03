@@ -18,6 +18,7 @@ import { tormentedToymaker } from 'rng/reverendunclebastard/tormentedToymaker';
 import { rottingRecalcitrant } from 'rng/ripleyc/rottingRecalcitrant';
 import { betrayedPhantom } from 'rng/sashadeath/betrayedPhantom';
 import { nachthex } from 'rng/stregaflora/nachthex';
+import { devilsReject } from 'rng/ceph/devilsReject';
 
 export const classes = {
   anCailleach,
@@ -28,6 +29,7 @@ export const classes = {
   catacombSaint,
   corpsePlunderer,
   deathWitch,
+  devilsReject,
   fugitiveKnight,
   landlockedBuccaneer,
   misbegottenRelict,

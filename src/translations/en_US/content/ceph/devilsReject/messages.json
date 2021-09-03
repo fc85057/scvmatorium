@@ -1,0 +1,25 @@
+{
+  "content.ceph.devilsReject": "The Devil's Reject",
+
+  "content.ceph.devilsReject.blurb": "There is no shortage of vile dirtbags in the Dying Lands, but few are quite like you. Rotten to the core, Hell itself spit you back out. Is this your chance for redemption or merely an opportunity for more wickedness?",
+
+  "content.ceph.devilsReject.traitor": "You conspired with the enemy to spare your life and in exchange led your troops into a massacre.",
+  "content.ceph.devilsReject.cannibal": "You quickly resorted to cannibalism when rations ran low. Very quickly.",
+  "content.ceph.devilsReject.sacrificer": "You willingly sacrificed your firstborn to Verhu. A little too willingly.",
+  "content.ceph.devilsReject.witchhunter": "You led a witch-hunt, knowing full well it was bullshit.",
+  "content.ceph.devilsReject.misery": "You triggered one of the miseries. Intentionally.",
+  "content.ceph.devilsReject.lurer": "You promised people shelter and instead lured them into the Accursed Den.",
+
+  "content.ceph.devilsReject.serpentsTongue.title": "Serpent's Tongue",
+  "content.ceph.devilsReject.serpentsTongue.description": "Once per day, tell a lie and every living creature in earshot will believe it.",
+  "content.ceph.devilsReject.allForOne.title": "All For One",
+  "content.ceph.devilsReject.allForOne.description": "Immediately loot a fellow PC's corpse after death - no action required.",
+  "content.ceph.devilsReject.toHellWithYall.title": "To Hell With Y'all",
+  "content.ceph.devilsReject.toHellWithYall.description": "Use an ally as a shield once per day.",
+  "content.ceph.devilsReject.batOutOfHell.title": "Bat Out Of Hell",
+  "content.ceph.devilsReject.batOutOfHell.description": "Reduce restrained DR tests by 2.",
+  "content.ceph.devilsReject.youKnowNothingOfHell.title": "You Know Nothing Of Hell",
+  "content.ceph.devilsReject.youKnowNothingOfHell.description": "Toughness DR14 to reduce an enemy's morale by 2.",
+  "content.ceph.devilsReject.seeYouInHell.title": "See You In Hell",
+  "content.ceph.devilsReject.seeYouInHell.description": "When you die, take one creature with you."
+}
